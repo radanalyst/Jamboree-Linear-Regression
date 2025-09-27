@@ -1,0 +1,7 @@
+jamboree-linear-regression/
+│── README.md               <- Project documentation
+│── data/                   <- Admission dataset
+│── notebooks/              <- Jupyter Notebook (EDA + models)
+│── reports/                <- Figures & plots
+│── requirements.txt        <- Python dependencies
+│── LICENSE
